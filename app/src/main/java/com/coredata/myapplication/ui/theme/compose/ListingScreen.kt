@@ -56,7 +56,7 @@ fun ListingScreen(uiState: UiState, navController: NavController) {
                             }
                         ) {
                             Image(painter = painterResource(android.R.drawable.ic_menu_myplaces) , contentDescription = "test")
-                            Text(modifier = Modifier.padding(5.dp), text = "${university?.name}")
+                            Text(modifier = Modifier.padding(5.dp), text = "${university?.name}", color = Color.Black)
                         }
                     }
                 }

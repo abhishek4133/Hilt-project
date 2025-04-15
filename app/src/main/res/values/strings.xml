@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fetching_data">Fetching data...</string>
+    <string name="name">Name : </string>
+    <string name="country">Country : </string>
+    <string name="web_page">Web Page : </string>
+    <string name="alpha_code">"Alpha code : </string>
+    <string name="no_website">No Website Found</string>
+</resources>
